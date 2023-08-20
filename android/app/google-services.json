@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013026528293",
+    "project_id": "open-weather-703d4",
+    "storage_bucket": "open-weather-703d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013026528293:android:97c0c3d29df4a27ea073cc",
+        "android_client_info": {
+          "package_name": "com.example.open_weather_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013026528293-ckbhg1eghp6b80c5f5qe7gi7me6i3sva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Re4o7pBdHFmzzuj9KnzTUnWXtM5oViw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013026528293-ckbhg1eghp6b80c5f5qe7gi7me6i3sva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
